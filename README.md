@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ghanem Behaz
+- 👀 I’m interested in web development, software architecture, and open source projects.
+- 🌱 I’m currently learning advanced data structures and algorithms.
+- 💞️ I’m looking to collaborate on innovative web applications and projects that utilize Django REST Framework, Angular, PostgreSQL, and OpenStack technologies.
+- 📫 How to reach me: You can reach me via email at ghanembehaz@gmail.com or connect with me on LinkedIn [linkedin.com/in/behaz-ghanim-7bab09138].
